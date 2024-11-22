@@ -32,8 +32,8 @@ class Empleado {
 }
 
 let empleados = [
-    new Empleado("Paco", "Fiestas", 1997, 27000, "71954030W", "paco.fiestas@example.com"),
-    new Empleado("Elsa", "Polindo", 1994, 4500, "71954030A", "elsa.polindo@example.com"),
+    new Empleado("Marcos", "Lopez", 1997, 27000, "71954030W", "marcos.lopez@example.com"),
+    new Empleado("Alvaro", "Gonzalez", 1994, 4500, "71954030A", "alvaro.gonzalez@example.com"),
 ];
 
 let tabla = document.getElementById("lista-empleados");
